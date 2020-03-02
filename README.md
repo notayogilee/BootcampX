@@ -1,0 +1,2 @@
+# BootcampX
+PSQL practice repo
