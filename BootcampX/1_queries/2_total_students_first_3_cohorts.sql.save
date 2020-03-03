@@ -1,0 +1,7 @@
+SELECT students
+FROM cohorts
+LIMIT 3
+count(students);SELECT id, name
+FROM cohorts
+ORDER BY name
+count(cohort_id);   
